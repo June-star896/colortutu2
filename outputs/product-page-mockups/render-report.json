@@ -1,0 +1,138 @@
+[
+  {
+    "product": "zodiac",
+    "output": "C:\\Users\\23135\\Documents\\网站建立\\outputs\\product-page-mockups\\colotutu-product-zodiac-1440x2400.png",
+    "metrics": {
+      "width": 1440,
+      "height": 2400,
+      "bodyHeight": 2400,
+      "h1": "Zodiac Mirror & Comb Gift Set",
+      "images": [
+        {
+          "complete": true,
+          "width": 877,
+          "height": 1182
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1000,
+          "height": 1000
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1122,
+          "height": 1402
+        },
+        {
+          "complete": true,
+          "width": 877,
+          "height": 1182
+        }
+      ]
+    },
+    "consoleErrors": []
+  },
+  {
+    "product": "puff",
+    "output": "C:\\Users\\23135\\Documents\\网站建立\\outputs\\product-page-mockups\\colotutu-product-puff-1440x2400.png",
+    "metrics": {
+      "width": 1440,
+      "height": 2400,
+      "bodyHeight": 2400,
+      "h1": "Makeup Puff & Applicator Gift Set",
+      "images": [
+        {
+          "complete": true,
+          "width": 877,
+          "height": 1182
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1254,
+          "height": 1254
+        },
+        {
+          "complete": true,
+          "width": 1280,
+          "height": 1707
+        },
+        {
+          "complete": true,
+          "width": 877,
+          "height": 1182
+        }
+      ]
+    },
+    "consoleErrors": []
+  }
+]

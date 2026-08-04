@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "rococo-v2",
+    "screenshot": "C:\\Users\\23135\\Documents\\网站建立\\outputs\\homepage-concepts\\colotutu-rococo-v2-1440x2400.png",
+    "metrics": {
+      "title": "Rococo Atelier Refined | Colotutu",
+      "scrollWidth": 1440,
+      "scrollHeight": 2400,
+      "h1": "Collectible Beauty Tools, Made to Enchant.",
+      "forms": 1,
+      "images": [
+        {
+          "alt": "Colotutu logo",
+          "complete": true,
+          "width": 128
+        },
+        {
+          "alt": "Colotutu zodiac gift collection",
+          "complete": true,
+          "width": 260
+        },
+        {
+          "alt": "Colotutu zodiac mirror and comb gift set in lavender gift packaging",
+          "complete": true,
+          "width": 748
+        },
+        {
+          "alt": "Colotutu makeup puff, applicator and gift packaging development",
+          "complete": true,
+          "width": 792
+        },
+        {
+          "alt": "Yin Caixia, founder of Colotutu",
+          "complete": true,
+          "width": 547
+        },
+        {
+          "alt": "Colotutu",
+          "complete": true,
+          "width": 96
+        }
+      ]
+    },
+    "consoleErrors": []
+  }
+]
